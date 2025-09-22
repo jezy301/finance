@@ -3,6 +3,8 @@
 RAKsmart 是成立于 2012 年的老牌海外主机商，主营 **VPS/云服务器/独立服务器租用与托管**。其自营与合作数据中心覆盖 **美国（圣何塞/洛杉矶/西雅图）**、**中国香港/中国台湾**、**日本、韩国、越南、新加坡、马来西亚** 等地。可选线路包含 **国际 BGP、大陆优化、大陆优化 VIP、精品网、CN2 ONLY** 等，支持 **高防服务器、站群服务器、大带宽服务器、GPU 服务器** 等特色产品。支持 **支付宝、PayPal、信用卡** 等多种付款方式，无需实名。
 当前新上线 **西雅图机房**，首发特惠低至 3 折，**E3 机型首月 \$19.9 起**，可选 **1Gbps 国际 BGP** 或 **100M 大陆优化 VIP** 线路。
 
+<img width="2539" height="1181" alt="image" src="https://github.com/user-attachments/assets/9663c74d-49d9-42c0-92f5-7ef6d3b1feea" />
+
 ## RAKsmart 官网地址
 
 RAKsmart 官网： [https://www.raksmart.com](https://billing.raksmart.com/whmcs/aff.php?aff=8717&aff_rtype=affiliateonetime)
